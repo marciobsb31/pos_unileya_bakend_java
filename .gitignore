@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+apache-maven-*/
+.mvn/
+mvnw
+mvnw.cmd
+.idea/
+*.iml
+.vscode/
+documentos/
